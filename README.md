@@ -32,4 +32,5 @@ Model architecture is composed of Embeddng layer, bidirectional LSTM layer, foll
 ![Accuracy](https://github.com/parasgulati8/Sarcasm-Detection/blob/master/images/accuracy.JPG)
 
 The highest validation accuracy achieved is 83.11% on 5th epoch. 
+
 ![Loss](https://github.com/parasgulati8/Sarcasm-Detection/blob/master/images/loss.JPG)
